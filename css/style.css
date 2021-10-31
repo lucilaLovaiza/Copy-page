@@ -1,0 +1,93 @@
+header { 
+    background-color: rgb(3, 129, 203);
+    height: 70px;
+    color: white;
+    font-size: 40px;
+    margin-bottom: 0px;
+    
+}
+
+body {
+    margin: 0px;
+    font-family: 'Blinker', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(249, 249, 249);
+    font-size: 14px;
+}
+
+img.anses {
+    float: left;
+    height: 38px;
+    margin-left: 125px;
+    margin-top: 15px;
+}
+
+h1.mianses {
+    color: rgb(0, 82, 150);
+    font-size: 40px;
+}
+
+div.main {
+    margin-left: 300px;
+    margin-top: 0px;
+    padding: 0px;
+}
+
+main.contenedor {
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(212, 212, 212);
+    height: 350px;
+    width: 750px;
+    background-color: rgb(255, 255, 255);
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+a.g, p.g {
+    font-size: 16px;
+}
+
+input.in {
+    height: 40px;
+    width: 700px;
+    border-color: rgba(214, 212, 212, 0.774);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+}
+
+button.ingresar {
+    height: 45px;
+    width: 220px;
+    margin-left: 250px;
+    background-color: rgb(0, 82, 150);
+    color: white;
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 5px;
+}
+
+button.clave {
+    height: 45px;
+    width: 300px;
+    background-color: white;
+    color: rgb(0, 82, 150);
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(0, 82, 150);
+    border-radius: 3px;
+    margin-left: 230px;
+    margin-bottom: 30px;
+}
+
+footer {
+    background-color: rgb(206, 206, 206);
+    height: 120px;
+}
+
+a.f {
+    margin-right: 200px;
+    margin-left: 600px;
+    
+}
